@@ -1,0 +1,14 @@
+{
+  "testnet": {
+    "feeSend": 50,
+    "feeFulfill": 0,
+    "feeWallet": "0xe599fB7EcDdE1A72438b9BFA0AA0b921e9250330",
+    "relayer": "0xe599fB7EcDdE1A72438b9BFA0AA0b921e9250330"
+  },
+  "mainnet": {
+    "relayer": "0x3D606153050198ECE0B9CB7998Ac94da05ac80a7",
+    "feeSend": 50,
+    "feeFulfill": 0,
+    "feeWallet": "0x3D606153050198ECE0B9CB7998Ac94da05ac80a7"
+  }
+}

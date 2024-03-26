@@ -1,0 +1,4 @@
+{
+  "maxFeePerGas": "40000000000",
+  "maxPriorityFeePerGas": "5000000000"
+}
